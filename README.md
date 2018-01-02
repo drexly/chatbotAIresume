@@ -1,4 +1,9 @@
 # chatbotAIresume
+Interested in Korean Sentiment Classification for building Relational ChatBot (https://github.com/drexly/openhgsenti) and Korean NLP with generating dialogues(https://github.com/drexly/legitKOchar).
+
+Have developed Functional ChatBot for IoT device control and one-step information retrieving as like Artificial intelligence secretary, smart-speaker, connected-home and web-based customer service ChatBots by Python Django.
+
+Have patents, International invention exhibition prize, and program registration regarding Korean NLP ChatBots. Standard proposal requested from Samxxxx Electronxxx, Hyunxxx Autoxxxx, French Web Shopping Mall building company, and so on.
 
 ## NVIDIA Inception Program Partner AI Startup CYA.AI Representative
 * * *
@@ -6,8 +11,6 @@
 ![http://cya.ai](/NVIDIA/pitch.jpg?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/wall.jpg?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/poster.png?raw=true "DeepLearningDay2017")
-
-Standard proposal requested from Hyundai, Samsung,...
 
 
 ## Introduction on Functional Chatbots (OneStep IoTctrl, Information Retrieving)
