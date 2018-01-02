@@ -5,16 +5,17 @@ Have developed Functional ChatBot for IoT device control and one-step informatio
 
 Have patents, International invention exhibition prize, and program registration regarding Korean NLP ChatBots. Standard proposal requested from Samxxxx Electronxxx, Hyunxxx Autoxxxx, French Web Shopping Mall building company, and so on.
 
-## NVIDIA Inception Program Partner AI Startup CYA.AI Representative
 * * *
+## NVIDIA Inception Program Partner AI Startup CYA.AI Representative
+
 ![http://cya.ai](/NVIDIA/nv.PNG?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/pitch.jpg?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/wall.jpg?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/poster.png?raw=true "DeepLearningDay2017")
 
-
-## Introduction on Functional Chatbots (OneStep IoTctrl, Information Retrieving)
 * * *
+## Introduction on Functional Chatbots (OneStep IoTctrl, Information Retrieving)
+
 ### Click below for HD Video
 [![클릭하세요](http://i3.ytimg.com/vi/dC_7jVi-Zc4/hqdefault.jpg)](https://youtu.be/dC_7jVi-Zc4)
 
@@ -31,9 +32,9 @@ Have patents, International invention exhibition prize, and program registration
 ![http://cya.ai](/intro/a&#32;(11).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(12).PNG?raw=true "IoTctrl+InfoSuggest")
 
-
-## 2017 Taipei International Invention Show and Technomart via 한국발명진흥회 (OneStep IoTctrl, Information Retrieving)
 * * *
+## 2017 Taipei International Invention Show and Technomart via 한국발명진흥회 (OneStep IoTctrl, Information Retrieving)
+
 ### Click below for HD Video
 [![클릭하세요](http://i3.ytimg.com/vi/2HnthvKasKA/hqdefault.jpg)](https://youtu.be/2HnthvKasKA)
 
@@ -47,9 +48,9 @@ Have patents, International invention exhibition prize, and program registration
 
 Standard proposal requested from French Web-ShoppingMall producer,...
 
-
-## Ongoing Research and Development on Korean Functional & Relational Chatbot
 * * *
+## Ongoing Research and Development on Korean Functional & Relational Chatbot
+
 ### Click below for HD Video
 [![클릭하세요](http://i3.ytimg.com/vi/rEKY5T1bt4U/hqdefault.jpg)](https://youtu.be/rEKY5T1bt4U)
 
