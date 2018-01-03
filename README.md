@@ -12,6 +12,7 @@ Have patents, International invention exhibition prizes, and program copyright r
 ![http://cya.ai](/NVIDIA/pitch.jpg?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/cctv.PNG?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/wall.jpg?raw=true "DeepLearningDay2017")
+![http://cya.ai](/NVIDIA/nvidskt.png?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/poster.png?raw=true "DeepLearningDay2017")
 
 * * *
@@ -26,6 +27,7 @@ Have patents, International invention exhibition prizes, and program copyright r
 ![http://cya.ai](/intro/a&#32;(4).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(5).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(6).PNG?raw=true "IoTctrl+InfoSuggest")
+![http://cya.ai](/intro/noname05.png?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(7).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(8).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(9).PNG?raw=true "IoTctrl+InfoSuggest")
