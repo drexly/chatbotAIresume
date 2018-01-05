@@ -28,7 +28,7 @@ Have patents, International invention exhibition prizes, and program copyright r
 ![http://cya.ai](/intro/a&#32;(5).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(6).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/noname05.png?raw=true "IoTctrl+InfoSuggest")
-![http://cya.ai](/intro/a&#32;(7).PNG?raw=true "IoTctrl+InfoSuggest")
+![http://cya.ai](/intro/a(7).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(8).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(9).PNG?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/intro/a&#32;(10).PNG?raw=true "IoTctrl+InfoSuggest")
