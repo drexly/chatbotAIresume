@@ -41,7 +41,8 @@ Have patents, International invention exhibition prizes, and program copyright r
 ### Click below for HD Video
 [![클릭하세요](http://i3.ytimg.com/vi/2HnthvKasKA/hqdefault.jpg)](https://youtu.be/2HnthvKasKA)
 
-![http://cya.ai](/EXHIBIT/prize.png?raw=true "IoTctrl+InfoSuggest")
+![http://cya.ai](/EXHIBIT/prize22.jpg?raw=true "IoTctrl+InfoSuggest")
+![http://cya.ai](/EXHIBIT/prize1.jpg?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/EXHIBIT/stood.jpg?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/EXHIBIT/booth.jpg?raw=true "IoTctrl+InfoSuggest")
 ![http://cya.ai](/EXHIBIT/taipei1.jpg?raw=true "IoTctrl+InfoSuggest")
