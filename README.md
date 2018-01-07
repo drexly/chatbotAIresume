@@ -9,10 +9,10 @@ Have patents, International invention exhibition prizes, and program copyright r
 ## NVIDIA Inception Program Partner AI Startup CYA.AI Representative
 
 ![http://cya.ai](/NVIDIA/nv.PNG?raw=true "DeepLearningDay2017")
-![http://cya.ai](/NVIDIA/pitch.jpg?raw=true "DeepLearningDay2017")
 
 ### https://www.nvidia.com/ko-kr/deep-learning-day/agenda/ -> AI-STARTUP
 
+![http://cya.ai](/NVIDIA/pitch.jpg?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/cctv.PNG?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/wall.jpg?raw=true "DeepLearningDay2017")
 ![http://cya.ai](/NVIDIA/nvidskt.png?raw=true "DeepLearningDay2017")
