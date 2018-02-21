@@ -5,6 +5,11 @@ Have developed Functional ChatBot for IoT device control and one-step informatio
 
 Have patents, International invention exhibition prizes, and program copyright registration regarding Korean NLP ChatBots. Standard proposal requested from Samxxxx Electronxxx, Hyunxxx Autoxxxx, French Web Shopping Mall building company, and so on.
 
+Standard Proposal: https://github.com/drexly/chatbotAIresume/blob/master/cyaai.pdf
+
+Korean & English Resume-CV: https://github.com/drexly/chatbotAIresume/blob/master/portfolio.pdf
+
+Linkedin: https://www.linkedin.com/in/drexly/
 * * *
 ## NVIDIA Inception Program Partner AI Startup CYA.AI Representative
 
